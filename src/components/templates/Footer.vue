@@ -21,11 +21,12 @@
           <!--</div>-->
 
           <div class="col-lg-3 col-md-6 footer-contact">
-            <h4>Contact Us</h4>
+            <h4>Контакты</h4>
             <p>
               127566, г. Москва, Алтуфьевское шоссе, д.44, эт.2, пом. III, комн. 13<br>
-              <strong>Phone:</strong> +7 ( 926 ) 123-**-09<br>
-              <strong>Email:</strong> <a href="mailto:hi@buhdialog.ru">hi@buhdialog.ru</a> <br>
+              <strong>Городской:</strong> +7 (495) 295-04-54<br>
+              <strong>Мобильный:</strong> +7 (925) 815-72-77<br>
+              <strong>Email:</strong> <a href="mailto:buhdialog18@mail.ru">buhdialog18@mail.ru</a> <br>
             </p>
 
             <!--<div class="social-links">-->

@@ -9,7 +9,7 @@
     <section id="call-to-action" class="wow fadeIn">
       <div class="container text-center">
         <h3>Получить консультацию по ведению бухгалтерского учёта</h3>
-        <h3>+7 (926) 123-**-09</h3>
+        <h3>+7 (495) 295-04-54</h3>
         <p>или просто приежайте по адресу нашего местонахождения: <br/>г. Москва, м. Отрадное, Алтуфьевское шоссе, д.44, БИЗНЕС-центр "Альтеза" <br/><br/>Наши ведущие специалисты готовы всегда Вас проконсультировать по любому вопросу.</p>
         <!--<a class="cta-btn" href="#">Call To Action</a>-->
       </div>
@@ -397,7 +397,8 @@
             <div class="contact-phone">
               <i class="ion-ios-telephone-outline"></i>
               <h3>Телефон</h3>
-              <p><a href="tel:+7926123**09">+7 (926) 123-**-09</a></p>
+              <p><a href="tel:+74952950454">+7 (495) 295-04-54</a></p>
+              <p><a href="tel:+79258157277">+7 (925) 815-72-77</a></p>
             </div>
           </div>
 
@@ -405,7 +406,7 @@
             <div class="contact-email">
               <i class="ion-ios-email-outline"></i>
               <h3>Email</h3>
-              <p><a href="mailto:hi@buhdialog.ru">hi@buhdialog.ru</a></p>
+              <p><a href="mailto:buhdialog18@mail.ru">buhdialog18@mail.ru </a></p>
             </div>
           </div>
 

@@ -22,7 +22,7 @@
             <div class="carousel-background"><img src="static/img/intro-carousel/3.jpg" alt=""></div>
             <div class="carousel-container">
               <div class="carousel-content">
-                <h2>Мы професианалы!</h2>
+                <h2>Мы профессионалы!</h2>
                 <p>
                   Предлагает решение, которое поможет вашему бизнесу выйти на новый уровен.
                 </p>
